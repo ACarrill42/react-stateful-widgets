@@ -20,14 +20,12 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LambdaSchool/react-stateful-widgets.git"
-  },
+  "repository": "git+https://github.com/LambdaSchool/react-stateful-widgets.git",
   "keywords": [],
-  "author": "",
+  "author": "ACarrill42 <austincarrill@gmail.com>",
   "bugs": {
     "url": "https://github.com/LambdaSchool/react-stateful-widgets/issues"
   },
-  "homepage": "https://github.com/LambdaSchool/react-stateful-widgets#readme"
+  "homepage": "https://github.com/LambdaSchool/react-stateful-widgets#readme",
+  "main": "index.js"
 }
